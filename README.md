@@ -9,12 +9,8 @@
 <br/>
 
 <div align="center">
-  
-  🖥️ I'm currently learning <strong>Dotnet, Next, Nest, and many others!</strong>
 
-  🤖 I'm currently working on <strong>improving my knowledge and skills in programming!</strong>
-
-  💬 Feel free to <strong>get in touch with me so we can always discuss programming languages and many other topics!</strong>
+  🤖 I'm currently working on <strong>improving my knowledge and skills in programming! 😄</strong>
   
 </div>
 
